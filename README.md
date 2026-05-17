@@ -23,7 +23,9 @@ se usa el paquete **googlenewsdecoder** que está diseñada específicamente par
 
 4. La información se presenta de forma simple ne Power BI para su revisión:
 
-![alt text](image.png)
+<img width="1401" height="777" alt="image" src="https://github.com/user-attachments/assets/10af99be-2c81-4f34-973f-9c443f5dd8ce" />
 
 Incluso si se realiza una búsqueda del contenido de la noticia (CARPETA:WEB SCRAPPING) se puede tener una ventana emergente que muestre parte de ella como previsualización antes de decidir ingresar al URL:
-![alt text](image-1.png)
+
+<img width="1348" height="465" alt="image" src="https://github.com/user-attachments/assets/7a8d3e30-b50c-45ea-a9c1-e1c4531c40cb" />
+
