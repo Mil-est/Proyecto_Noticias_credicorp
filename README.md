@@ -21,7 +21,7 @@ Es una de las herramientas más populares y robustas en Python para descargar y 
 
 se usa el paquete **googlenewsdecoder** que está diseñada específicamente para descifrar o decodificar enlaces internos generados por Google News y convertirlos a sus URL originales
 
-4. La información se presenta de forma simple ne Power BI para su revisión:
+4. La información se presenta de forma simple en Power BI para su revisión:
 
 <img width="1401" height="777" alt="image" src="https://github.com/user-attachments/assets/10af99be-2c81-4f34-973f-9c443f5dd8ce" />
 
